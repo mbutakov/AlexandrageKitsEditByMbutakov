@@ -1,0 +1,6 @@
+name: MBUTAKOVKITS
+main: mbKits.kits
+version: 1.0
+commands:
+    kit:
+    kits:
